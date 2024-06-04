@@ -4,7 +4,7 @@
   <img src="https://github.com/justabayet/justabayet/blob/main/public/images/justabayet/title.png">
 </picture>
 
-Software development is the world of creation where only passion, and effort set the boundaries.
+Software development is the world of creation where only the mind set the boundaries.
 
 <h2>BarkBudget</h2>
 Unleash Your Financial Potential.
