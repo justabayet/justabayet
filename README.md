@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/justabayet/justabayet/blob/main/images/light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/justabayet/justabayet/blob/main/images/dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/justabayet/justabayet/blob/main/light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/justabayet/justabayet/blob/main/dark.png">
   <img src="https://github.com/justabayet/justabayet/blob/main/public/images/justabayet/title.png">
 </picture>
 
