@@ -1,16 +1,20 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/justabayet/justabayet/blob/main/images/light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/justabayet/justabayet/blob/main/images/dark.png">
+  <img src="https://github.com/justabayet/justabayet/blob/main/public/images/justabayet/title.png">
+</picture>
 
-<!--
-**justabayet/justabayet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software development is the world of creation where only passion, and effort set the boundaries.
 
-Here are some ideas to get you started:
+<h2>BarkBudget</h2>
+Unleash Your Financial Potential.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://bb.justabayet.com" target="_blank">BarkBudget</a> the react companion that helps you achieve your financial goals by forecasting your future earnings and expenses, providing you with a clear view of your financial situation and guiding you towards your financial freedom.
+
+<h2>Engineering User Interfaces with Beat Gestures</h2>
+
+Video game exploiting a hand gesture recognition module where players must perform predefined gestures following a music.
+
+Publication: https://dl.acm.org/doi/10.1145/3596454.3597187
+
+Presented at [Kikk festival 2021](http://2021.kikk.be/en/home)
